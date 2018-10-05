@@ -11,10 +11,10 @@ A tabela a seguir lista os arquivos e pastas no projeto. Para este tutorial, o a
 | Arquivo ou pasta | Finalidade |
 | -------------- | ------- |
 | *wwwroot* | Contém ativos estáticos. Confira [Arquivos estáticos](xref:fundamentals/static-files). |
-| *Páginas* | Pasta para [Páginas do Razor](xref:razor-pages/index). |
+| *Pages (Páginas)* | Pasta para [Páginas do Razor](xref:razor-pages/index). |
 | *appsettings.json* | [Configuração](xref:fundamentals/configuration/index) |
 | *Program.cs* | Configura o [host](xref:fundamentals/host/index) do aplicativo do ASP.NET Core. |
-| *Startup.cs* | Configura os serviços e o pipeline de solicitação. Consulte [Inicialização](xref:fundamentals/startup). |
+| *Startup.cs* | Configura os serviços e o pipeline de solicitação. Consulte [Startup (Inicialização)](xref:fundamentals/startup). |
 
 ### <a name="the-pagesshared-folder"></a>A pasta Pages/Shared
 
